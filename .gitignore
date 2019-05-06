@@ -101,3 +101,8 @@ ENV/
 .mypy_cache/
 /.project
 /.pydevproject
+/ALPHALAS_CCD-S3600-D/
+/CD DK/
+/D2XX_Programmer's_Guide(FT_000071).pdf
+/ADvance High-Speed Digital CCD
+.idea
